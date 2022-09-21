@@ -1,0 +1,14 @@
+[Unit]
+Description=MQTT to JSON helper for OpenWebRx
+After=rigctld.service rotctld.service network.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=ly1bwb
+WorkingDirectory=/srv/docker/openwebrx-limesdr/helpers/mqttrig
+ExecStart=/bin/sh -c 'cd /srv/docker/openwebrx-limesdr/helpers/mqttrig && /usr/bin/perl /srv/docker/openwebrx-limesdr/helpers/mqttrig/mqtt-rotator-to-json.pl'
+
+[Install]
+WantedBy=multi-user.target

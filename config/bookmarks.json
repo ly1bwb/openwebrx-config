@@ -1,0 +1,568 @@
+[
+
+  {
+    "name": "CB-19",
+    "frequency": 27180000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "CB-Packet",
+    "frequency": 27235000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "CB-SSTV",
+    "frequency": 27700000,
+    "modulation": "usb"
+  },
+  {
+    "name": "404",
+    "frequency": 91700000,
+    "modulation": "wfm"
+  },
+  {
+    "name": "START",
+    "frequency": 94200000,
+    "modulation": "wfm"
+  },
+  {
+    "name": "BBC",
+    "frequency": 95500000,
+    "modulation": "wfm"
+  },
+  {
+    "name": "PHR",
+    "frequency": 95900000,
+    "modulation": "wfm"
+  },
+  {
+    "name": "Approach",
+    "frequency": 120700000,
+    "modulation": "am"
+  },
+  {
+    "name": "121.45",
+    "frequency": 121450000,
+    "modulation": "am"
+  },
+  {
+    "name": "IAD 121.5",
+    "frequency": 121500000,
+    "modulation": "am"
+  },
+  {
+    "name": "121.8",
+    "frequency": 121800000,
+    "modulation": "am"
+  },
+  {
+    "name": "122.25",
+    "frequency": 122250000,
+    "modulation": "am"
+  },
+  {
+    "name": "122.85",
+    "frequency": 122850000,
+    "modulation": "am"
+  },
+  {
+    "name": "123.3",
+    "frequency": 123300000,
+    "modulation": "am"
+  },
+  {
+    "name": "122.5",
+    "frequency": 122500000,
+    "modulation": "am"
+  },
+  {
+    "name": "123.5",
+    "frequency": 123500000,
+    "modulation": "am"
+  },
+  {
+    "name": "125.5",
+    "frequency": 125500000,
+    "modulation": "am"
+  },
+  {
+    "name": "ATIS VNO",
+    "frequency": 125800000,
+    "modulation": "am"
+  },
+  {
+    "name": "ACARS EU",
+    "frequency": 131725000,
+    "modulation": "am"
+  },
+  {
+    "name": "ACARS WW",
+    "frequency": 131550000,
+    "modulation": "am"
+  },
+  {
+    "name": "ACARS (POA)",
+    "frequency": 131825000,
+    "modulation": "am"
+  },
+  {
+    "name": "NOAA-19",
+    "frequency": 137100000,
+    "modulation": "fm"
+  },
+  {
+    "name": "NOAA-15",
+    "frequency": 137620000,
+    "modulation": "fm"
+  },
+  {
+    "name": "NOAA-18",
+    "frequency": 137912500,
+    "modulation": "fm"
+  },
+  {
+    "name": "ORBCOMM",
+    "frequency": 137250000,
+    "modulation": "usb"
+  },
+  {
+    "name": "ORBCOMM",
+    "frequency": 137315000,
+    "modulation": "usb"
+  },
+  {
+    "name": "ORBCOMM",
+    "frequency": 137712500,
+    "modulation": "usb"
+  },
+  {
+    "name": "ORBCOMM",
+    "frequency": 137460000,
+    "modulation": "usb"
+  },
+  {
+    "name": "ORBCOMM",
+    "frequency": 137560000,
+    "modulation": "usb"
+  },
+  {
+    "name": "GRAVES",
+    "frequency": 143050000,
+    "modulation": "cw"
+  },
+  {
+    "name": "SSB",
+    "frequency": 144300000,
+    "modulation": "usb"
+  },
+  {
+    "name": "MSK",
+    "frequency": 144360000,
+    "modulation": "usb"
+  },
+  {
+    "name": "SAT PKT",
+    "frequency": 145825000,
+    "modulation": "packet"
+  },
+  {
+    "name": "ISS",
+    "frequency": 145800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY2WR (QRT)",
+    "frequency": 145600000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "433.500",
+    "frequency": 433500000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LONG-SLOW-LORA",
+    "frequency": 434570000,
+    "modulation": "usb"
+  },
+  {
+    "name": "RS0ISS",
+    "frequency": 437550000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "ISS",
+    "frequency": 437800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY1XD DMR",
+    "frequency": 438250000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "PMR1",
+    "frequency": 446006250,
+    "modulation": "nfm"
+  },
+  {
+    "name": "PMR2",
+    "frequency": 446018750,
+    "modulation": "nfm"
+  },
+  {
+    "name": "PMR3",
+    "frequency": 446031250,
+    "modulation": "nfm"
+  },
+  {
+    "name": "PMR4",
+    "frequency": 446043750,
+    "modulation": "nfm"
+  },
+  {
+    "name": "PMR5",
+    "frequency": 446056250,
+    "modulation": "nfm"
+  },
+  {
+    "name": "PMR6",
+    "frequency": 446068750,
+    "modulation": "nfm"
+  },
+  {
+    "name": "PMR7",
+    "frequency": 446081250,
+    "modulation": "nfm"
+  },
+  {
+    "name": "PMR8",
+    "frequency": 446093750,
+    "modulation": "nfm"
+  },
+  {
+    "name": "DPMR",
+    "frequency": 446106250,
+    "modulation": "dmr"
+  },
+  {
+    "name": "CH0",
+    "frequency": 868100000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH1",
+    "frequency": 868300000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH2",
+    "frequency": 868500000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH3",
+    "frequency": 867100000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH4",
+    "frequency": 867300000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH5",
+    "frequency": 867500000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH6",
+    "frequency": 867700000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH7",
+    "frequency": 867900000,
+    "modulation": "usb"
+  },
+  {
+    "name": "CH8 FSK",
+    "frequency": 868800000,
+    "modulation": "usb"
+  },
+  {
+    "name": "146.150",
+    "frequency": 146150000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "146.150",
+    "frequency": 146150000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "148",
+    "frequency": 148000000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "147.412",
+    "frequency": 147412000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "147.513",
+    "frequency": 147513000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "147.663",
+    "frequency": 147663000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "147.95",
+    "frequency": 147950000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "147.975",
+    "frequency": 147975000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "148.150",
+    "frequency": 148150000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY1XD-in",
+    "frequency": 430650000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Zondai",
+    "frequency": 434500000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY1XD-out",
+    "frequency": 438250000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "442.525",
+    "frequency": 442525000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "442.750",
+    "frequency": 442750000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "442.9375",
+    "frequency": 442937500,
+    "modulation": "nfm"
+  },
+  {
+    "name": "1296.2",
+    "frequency": 1296200000,
+    "modulation": "usb"
+  },
+  {
+    "name": "1297.5",
+    "frequency": 1297500000,
+    "modulation": "nfm"
+  },
+
+
+
+
+  {
+    "name": "SAQ",
+    "frequency": 17200,
+    "modulation": "usb"
+  },
+  {
+    "name": "MSF",
+    "frequency": 60000,
+    "modulation": "usb"
+  },
+  {
+    "name": "RBU",
+    "frequency": 66666,
+    "modulation": "am"
+  },
+  {
+    "name": "DCF77",
+    "frequency": 77500,
+    "modulation": "am"
+  },
+  {
+    "name": "129",
+    "frequency": 129000,
+    "modulation": "usb"
+  },
+  {
+    "name": "135.5",
+    "frequency": 135500,
+    "modulation": "usb"
+  },
+  {
+    "name": "139",
+    "frequency": 139000,
+    "modulation": "usb"
+  },
+  {
+    "name": "TDF",
+    "frequency": 162000,
+    "modulation": "usb"
+  },
+  {
+    "name": "PRP1",
+    "frequency": 225000,
+    "modulation": "am"
+  },
+  {
+    "name": "AVN",
+    "frequency": 385000,
+    "modulation": "am"
+  },
+  {
+    "name": "3648",
+    "frequency": 3648000,
+    "modulation": "lsb"
+  },
+  {
+    "name": "Piepzender",
+    "frequency": 3920000,
+    "modulation": "am"
+  },
+  {
+    "name": "DK0WCY",
+    "frequency": 10144000,
+    "modulation": "cw"
+  },
+  {
+    "name": "PACKET",
+    "frequency": 10147600,
+    "modulation": "usb"
+  },
+  {
+    "name": "PACKET",
+    "frequency": 14103600,
+    "modulation": "usb"
+  },
+  {
+    "name": "SSTV",
+    "frequency": 14230000,
+    "modulation": "usb"
+  },
+  {
+    "name": "SSTV2",
+    "frequency": 14233000,
+    "modulation": "usb"
+  },
+  {
+    "name": "GRAVES",
+    "frequency": 143050000,
+    "modulation": "usb"
+  },
+  {
+    "name": "SSTV",
+    "frequency": 144500000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "145.500",
+    "frequency": 145500000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "145.550",
+    "frequency": 145550000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "ALYTUS",
+    "frequency": 145625000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY0RKA",
+    "frequency": 145675000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY0RUT",
+    "frequency": 145700000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY0RVN",
+    "frequency": 145750000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "LY0ROM",
+    "frequency": 145725000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "SAT-PKT",
+    "frequency": 145825000,
+    "modulation": "packet"
+  },
+  {
+    "name": "AO-91",
+    "frequency": 145960000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Radio DARC",
+    "frequency": 6070000,
+    "modulation": "am"
+  },
+  {
+    "name": "APP UMMS",
+    "frequency": 125900000,
+    "modulation": "am"
+  },
+  {
+    "name": "ATIS UUMS",
+    "frequency": 128850000,
+    "modulation": "am"
+  },
+  {
+    "name": "ATIS MINSK2",
+    "frequency": 135850000,
+    "modulation": "am"
+  },
+  {
+    "name": "GND UUMS",
+    "frequency": 129950000,
+    "modulation": "am"
+  },
+  {
+    "name": "VOLMET UUMS",
+    "frequency": 126675000,
+    "modulation": "am"
+  },
+  {
+    "name": "RADAR UUMS",
+    "frequency": 125250000,
+    "modulation": "am"
+  },
+  {
+    "name": "TWR UUMS",
+    "frequency": 118300000,
+    "modulation": "am"
+  },
+  {
+    "name": "TWR VNO",
+    "frequency": 118200000,
+    "modulation": "am"
+  }
+
+]
